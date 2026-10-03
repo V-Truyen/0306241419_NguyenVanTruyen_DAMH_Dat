@@ -1,0 +1,8 @@
+path: D:/Potato_Counter/potato_counter_truyen/dataset
+
+train: train/images
+val: valid/images
+test: test/images
+
+names:
+  0: potato
